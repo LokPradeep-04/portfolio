@@ -4,7 +4,7 @@ import { ArrowRight, Download, Mail, Eye } from 'lucide-react';
 import { FiGithub as Github, FiLinkedin as Linkedin } from 'react-icons/fi';
 
 const Hero = () => {
-  const RESUME_VIEW_LINK = "https://drive.google.com/file/d/1Jw61iHrF6B-8p969q04Xo0SfCh3FKDly/view?usp=sharing";
+  const RESUME_VIEW_LINK = "https://drive.google.com/file/d/1Jw61iHrF6B-8p969q04Xo0SfCh3FKDly/view";
   const RESUME_DOWNLOAD_LINK = "https://drive.google.com/uc?export=download&id=1Jw61iHrF6B-8p969q04Xo0SfCh3FKDly";
 
   return (
