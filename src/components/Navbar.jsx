@@ -10,7 +10,7 @@ const navLinks = [
   { name: 'Contact', href: '#contact' },
 ];
 
-const RESUME_LINK = "https://drive.google.com/file/d/1Jw61iHrF6B-8p969q04Xo0SfCh3FKDly/view";
+const RESUME_LINK = "https://drive.google.com/file/d/1Jw61iHrF6B-8p969q04Xo0SfCh3FKDly/view?usp=sharing";
 const Navbar = () => {
   const [scrolled, setScrolled] = useState(false);
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);

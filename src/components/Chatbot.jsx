@@ -47,9 +47,9 @@ const Chatbot = () => {
         "Use the Contact section at the bottom of the page to get in touch directly."
       ],
       help: [
-        "You can ask me about:\n• About this Website\n• Projects\n• Skills\n• How to Contact\n\nWhat would you like to know?",
+        "You can ask me about:\n• About this Website\n• Projects\n• Experience\n• How to Contact\n\nWhat would you like to know?",
         "I can help with questions about Lok's portfolio, skills, projects, and contact information!",
-        "Try asking about 'about', 'projects', 'skills', or 'contact'!"
+        "Try asking about 'about', 'projects', 'experience', or 'contact'!"
       ]
     };
 
@@ -101,7 +101,7 @@ const Chatbot = () => {
     "What is this website?",
     "Show me projects",
     "How to contact?",
-    "Tell me about skills"
+    "What's your experience?"
   ];
 
   return (
